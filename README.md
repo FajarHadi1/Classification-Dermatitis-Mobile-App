@@ -117,5 +117,3 @@ Pull request dan diskusi terbuka. Untuk perubahan besar, silakan buka issue terl
 ## 📜 Lisensi
 
 MIT License © 2025 Fajar Hadi
-
-```
