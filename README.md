@@ -49,10 +49,11 @@ Classification-Dermatitis-Mobile-App/
 ## 🔧 Cara Menjalankan
 
 ### 1. Backend (Flask API di Colab)
-1. Buka file `API_Flask.ipynb` di Google Colab.  
-2. Jalankan seluruh cell untuk mengaktifkan Flask API dengan ngrok.  
-3. Catat URL ngrok yang dihasilkan → ini yang akan dipakai aplikasi Flutter.  
-4. Tulis nilai variabel `baseUrl` dengan URL tersebut pada:  
+1. Buka file `API_Flask.ipynb` di Google Colab.
+2. Import resnet.h5 dan derm.h5  
+3. Jalankan seluruh cell untuk mengaktifkan Flask API dengan ngrok.  
+4. Catat URL ngrok yang dihasilkan → ini yang akan dipakai aplikasi Flutter.  
+5. Tulis nilai variabel `baseUrl` dengan URL tersebut pada:  
    - `Application/lib/core/api/api_client.dart`  
    - `Application/lib/data/services/image_api_service.dart`
 
