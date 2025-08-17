@@ -95,7 +95,7 @@ Pastikan URL API pada kode Flutter sesuai dengan link ngrok yang aktif.
 
 ## 📸 Preview
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/96fc88dd-14d1-4802-a336-7e07cdb63714" alt="Preview 1" width="220"/>
   <img src="https://github.com/user-attachments/assets/16cc8c9d-da47-4060-965d-7f4550e12e4b" alt="Preview 2" width="220"/>
 </p>
