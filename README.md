@@ -43,6 +43,11 @@ Classification-Dermatitis-Mobile-App/
 │── README.md             \
 
 ````
+---
+## 🗂️ Model Deep Learning
+Download model dibawah:
+- Resnet-50 : https://drive.google.com/file/d/1bCpNu51jpsXP1fRx6K67mRFSN5HDNRFN/view?usp=drive_link
+- Derm Foundation : https://drive.google.com/file/d/1g6ez5_G__yuKsNNpOTFCCGPWTpKorFxA/view?usp=drive_link
 
 ---
 
